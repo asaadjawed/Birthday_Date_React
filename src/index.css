@@ -11,3 +11,47 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.main {
+  background-color: palevioletred;
+  margin: 0;
+  padding: 30px 20px;
+}
+
+h1{
+  margin: 0;
+  padding: 0;
+}
+
+.birthday-div {
+  background-color: white;
+  margin: auto;
+  width: 50%;
+  text-align: center;
+  padding: 20px 10px;
+  display: block;
+}
+.imageTag{
+  border-radius: 100px;
+}
+.main-box{
+ 
+  margin: 20px 10px;
+}
+button {
+  width: 50%;
+  padding: 20px 50px;
+  background-color: #cdcdcd;
+  color: black;
+  text-transform: uppercase;
+  background-color: palevioletred;
+  border: none;
+  border-radius: 10px;
+  font-size: 25px;
+  font-weight: bold;
+}
+.birthday-div h1 {
+  margin-bottom: 20px;
+  border-bottom: 2px solid;
+  padding: 30px 10px;
+}
